@@ -1,0 +1,249 @@
+{"0":"\"","1":"u","10":" ","11":"i","12":"s","13":" ","14":"r","15":"e","16":"q","17":"u","18":"i","19":"r","2":"s","20":"e","21":"d","3":"e","4":"r","5":"N","6":"a","7":"m","8":"e","9":"\"","level":"error","message":"validation Error","service":"mfm","timestamp":"2026-10-13T16:25:24.238Z"}
+{"0":"\"","1":"u","10":" ","11":"i","12":"s","13":" ","14":"r","15":"e","16":"q","17":"u","18":"i","19":"r","2":"s","20":"e","21":"d","3":"e","4":"r","5":"N","6":"a","7":"m","8":"e","9":"\"","level":"error","message":"validation Error","service":"mfm","timestamp":"2026-10-13T16:26:14.806Z"}
+{"0":"\"","1":"u","10":" ","11":"i","12":"s","13":" ","14":"r","15":"e","16":"q","17":"u","18":"i","19":"r","2":"s","20":"e","21":"d","3":"e","4":"r","5":"N","6":"a","7":"m","8":"e","9":"\"","level":"error","message":"validation Error","service":"mfm","timestamp":"2026-10-13T16:26:18.575Z"}
+{"0":"\"","1":"e","10":"s","11":"t","12":" ","13":"b","14":"e","15":" ","16":"a","17":" ","18":"v","19":"a","2":"m","20":"l","21":"i","22":"d","23":" ","24":"e","25":"m","26":"a","27":"i","28":"l","3":"a","4":"i","5":"l","6":"\"","7":" ","8":"m","9":"u","level":"error","message":"validation Error","service":"mfm","timestamp":"2026-10-13T16:26:40.153Z"}
+{"0":"\"","1":"d","10":"t","11":"\"","12":" ","13":"i","14":"s","15":" ","16":"n","17":"o","18":"t","19":" ","2":"e","20":"a","21":"l","22":"l","23":"o","24":"w","25":"e","26":"d","3":"p","4":"a","5":"r","6":"t","7":"m","8":"e","9":"n","level":"error","message":"validation Error","service":"mfm","timestamp":"2026-10-13T16:26:54.354Z"}
+{"0":"\"","1":"d","10":"t","11":"\"","12":" ","13":"i","14":"s","15":" ","16":"n","17":"o","18":"t","19":" ","2":"e","20":"a","21":"l","22":"l","23":"o","24":"w","25":"e","26":"d","3":"p","4":"a","5":"r","6":"t","7":"m","8":"e","9":"n","level":"error","message":"validation Error","service":"mfm","timestamp":"2026-10-13T16:27:54.182Z"}
+{"0":"\"","1":"d","10":"t","11":"\"","12":" ","13":"i","14":"s","15":" ","16":"n","17":"o","18":"t","19":" ","2":"e","20":"a","21":"l","22":"l","23":"o","24":"w","25":"e","26":"d","3":"p","4":"a","5":"r","6":"t","7":"m","8":"e","9":"n","level":"error","message":"validation Error","service":"mfm","timestamp":"2026-10-13T16:27:56.542Z"}
+{"0":"\"","1":"d","10":"t","11":"\"","12":" ","13":"i","14":"s","15":" ","16":"n","17":"o","18":"t","19":" ","2":"e","20":"a","21":"l","22":"l","23":"o","24":"w","25":"e","26":"d","3":"p","4":"a","5":"r","6":"t","7":"m","8":"e","9":"n","level":"error","message":"validation Error","service":"mfm","timestamp":"2026-10-13T16:27:58.595Z"}
+{"0":"\"","1":"N","10":"r","11":"e","12":"q","13":"u","14":"i","15":"r","16":"e","17":"d","2":"a","3":"m","4":"e","5":"\"","6":" ","7":"i","8":"s","9":" ","level":"error","message":"validation Error","service":"mfm","timestamp":"2026-10-13T16:30:54.405Z"}
+{"0":"\"","1":"N","10":"r","11":"e","12":"q","13":"u","14":"i","15":"r","16":"e","17":"d","2":"a","3":"m","4":"e","5":"\"","6":" ","7":"i","8":"s","9":" ","level":"error","message":"validation Error","service":"mfm","timestamp":"2026-10-13T16:30:59.449Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:37:42.364Z"}
+{"level":"error","message":"Login error occured argon2.comparePassword is not a function","service":"mfm","stack":"TypeError: argon2.comparePassword is not a function\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:57:42)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","timestamp":"2026-10-13T16:37:42.535Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:38:31.550Z"}
+{"level":"error","message":"Login error occured pchstr must contain a $ as first char","service":"mfm","stack":"TypeError: pchstr must contain a $ as first char\n    at deserialize (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\@phc\\format\\index.js:147:11)\n    at Object.verify (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\argon2\\argon2.cjs:175:27)\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:57:42)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","timestamp":"2026-10-13T16:38:31.753Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:40:04.742Z"}
+{"level":"error","message":"Login error occured pchstr must contain a $ as first char","service":"mfm","stack":"TypeError: pchstr must contain a $ as first char\n    at deserialize (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\@phc\\format\\index.js:147:11)\n    at Object.verify (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\argon2\\argon2.cjs:175:27)\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:57:42)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","timestamp":"2026-10-13T16:40:04.877Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:43:13.406Z"}
+{"level":"error","message":"Login error occured generateToken is not defined","service":"mfm","stack":"ReferenceError: generateToken is not defined\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:67:43)","timestamp":"2026-10-13T16:43:13.652Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:45:05.388Z"}
+{"level":"error","message":"Login error occured generateToken is not defined","service":"mfm","stack":"ReferenceError: generateToken is not defined\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:67:43)","timestamp":"2026-10-13T16:45:05.622Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:49:36.995Z"}
+{"level":"error","message":"Login error occured secretOrPrivateKey must have a value","service":"mfm","stack":"Error: secretOrPrivateKey must have a value\n    at module.exports [as sign] (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\jsonwebtoken\\sign.js:111:20)\n    at generateToken (file:///C:/Users/USER/Desktop/mfm/mfmBackend/utils/genreateToken.js:6:27)\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:76:15)","timestamp":"2026-10-13T16:49:37.308Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:51:47.811Z"}
+{"level":"error","message":"Login error occured secretOrPrivateKey must have a value","service":"mfm","stack":"Error: secretOrPrivateKey must have a value\n    at module.exports [as sign] (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\jsonwebtoken\\sign.js:111:20)\n    at generateToken (file:///C:/Users/USER/Desktop/mfm/mfmBackend/utils/genreateToken.js:6:27)\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:76:15)","timestamp":"2026-10-13T16:51:48.071Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:52:02.543Z"}
+{"level":"error","message":"Login error occured JWT_SECRET environment variable is required","service":"mfm","stack":"Error: JWT_SECRET environment variable is required\n    at generateToken (file:///C:/Users/USER/Desktop/mfm/mfmBackend/utils/genreateToken.js:8:11)\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:73:49)","timestamp":"2026-10-13T16:52:02.856Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:52:37.886Z"}
+{"level":"error","message":"Login error occured JWT_SECRET environment variable is required","service":"mfm","stack":"Error: JWT_SECRET environment variable is required\n    at generateToken (file:///C:/Users/USER/Desktop/mfm/mfmBackend/utils/genreateToken.js:8:11)\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:73:49)","timestamp":"2026-10-13T16:52:38.138Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:53:52.249Z"}
+{"level":"error","message":"Login error occured JWT_SECRET environment variable is required","service":"mfm","stack":"Error: JWT_SECRET environment variable is required\n    at generateToken (file:///C:/Users/USER/Desktop/mfm/mfmBackend/utils/genreateToken.js:8:11)\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:73:49)","timestamp":"2026-10-13T16:53:52.508Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:55:11.332Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:56:43.824Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T16:58:18.951Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T18:02:05.670Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T18:28:33.395Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T18:33:33.577Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T18:34:19.197Z"}
+{"level":"error","message":"Login error occured res.status.cookies is not a function","service":"mfm","stack":"TypeError: res.status.cookies is not a function\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:75:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","timestamp":"2026-10-13T18:34:19.709Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T18:34:25.191Z"}
+{"level":"error","message":"Login error occured res.status.cookies is not a function","service":"mfm","stack":"TypeError: res.status.cookies is not a function\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:75:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","timestamp":"2026-10-13T18:34:25.671Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T18:35:16.071Z"}
+{"level":"error","message":"Login error occured res.status.cookies is not a function","service":"mfm","stack":"TypeError: res.status.cookies is not a function\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:75:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","timestamp":"2026-10-13T18:35:16.488Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-13T18:35:55.329Z"}
+{"level":"error","message":"Login error occured res.status.cookies is not a function","service":"mfm","stack":"TypeError: res.status.cookies is not a function\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:75:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","timestamp":"2026-10-13T18:35:55.777Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:10:08.189Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-15T08:11:01.785Z"}
+{"level":"error","message":"Login error occured res.status.cookies is not a function","service":"mfm","stack":"TypeError: res.status.cookies is not a function\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:75:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","timestamp":"2026-10-15T08:11:03.220Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-15T08:11:09.166Z"}
+{"level":"error","message":"Login error occured res.status.cookies is not a function","service":"mfm","stack":"TypeError: res.status.cookies is not a function\n    at loginUser (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/Admin.js:75:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","timestamp":"2026-10-15T08:11:09.913Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-15T08:12:15.743Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:12:36.694Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:15:21.669Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:15:48.652Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:17:32.247Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:18:50.513Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:19:20.469Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:22:09.326Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:24:02.052Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:25:25.956Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-15T08:26:06.995Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:26:26.311Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:29:28.853Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:31:08.571Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:33:49.464Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:34:03.452Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:34:31.065Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:36:45.168Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-15T08:36:56.390Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:37:17.042Z"}
+{"level":"warn","message":"create post controller hit..","service":"mfm","timestamp":"2026-10-15T08:37:17.198Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:38:36.563Z"}
+{"level":"info","message":"Create post controller hit","service":"mfm","timestamp":"2026-10-15T08:38:36.963Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:47:02.402Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-15T08:47:08.906Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:47:25.818Z"}
+{"level":"info","message":"Create post controller hit","service":"mfm","timestamp":"2026-10-15T08:47:25.975Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:51:44.966Z"}
+{"level":"info","message":"Create post controller hit","service":"mfm","timestamp":"2026-10-15T08:51:45.200Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:52:16.360Z"}
+{"level":"info","message":"Create post controller hit","service":"mfm","timestamp":"2026-10-15T08:52:16.680Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:52:49.979Z"}
+{"level":"info","message":"Create post controller hit","service":"mfm","timestamp":"2026-10-15T08:52:50.214Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T08:54:38.898Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-15T08:54:39.514Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T09:34:48.337Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-15T09:36:22.583Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T09:36:41.371Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-15T09:36:41.509Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T09:37:41.762Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-15T09:37:42.016Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T09:40:36.888Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-15T09:40:37.165Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-15T09:42:39.551Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-15T09:42:39.783Z","url":"/api/create-post"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-16T15:35:33.800Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T15:36:06.821Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-16T15:36:07.072Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T15:54:39.153Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-16T15:54:43.572Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T15:54:55.285Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-16T15:54:55.435Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T15:55:00.598Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-16T15:55:00.857Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T15:55:17.621Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-16T15:55:17.832Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T15:57:26.696Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-16T15:57:26.860Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:01:31.854Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-16T16:01:32.030Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:02:45.155Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-16T16:02:45.397Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:12:05.646Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-16T16:12:10.595Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:12:18.337Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-16T16:12:23.162Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:12:32.921Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-16T16:12:33.123Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:14:09.650Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-16T16:14:09.847Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:14:55.274Z"}
+{"body":{},"file":null,"level":"info","message":"Incoming create post request","method":"POST","service":"mfm","timestamp":"2026-10-16T16:14:55.473Z","url":"/api/create-post"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:21:46.237Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:21:49.564Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:22:47.973Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:23:30.318Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:23:54.080Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-16T16:24:00.406Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:24:16.934Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-16T16:24:17.145Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:24:32.515Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-16T16:24:32.757Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:24:35.210Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-16T16:24:35.409Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:27:34.306Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:28:42.878Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-16T16:28:47.354Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:29:12.352Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-16T16:29:12.614Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:30:28.241Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-16T16:30:28.465Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-16T16:30:59.939Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-16T16:31:00.086Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T07:54:02.367Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-19T07:54:14.604Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T07:55:35.144Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T07:58:53.198Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T07:58:58.940Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:03:21.650Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:03:35.117Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:37:56.151Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:49:11.648Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:50:43.858Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:51:41.370Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:52:22.856Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:53:56.917Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:55:02.244Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:55:26.000Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:56:37.480Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:56:55.251Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-19T08:57:05.417Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:57:30.713Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T08:57:30.840Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T08:59:20.769Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T08:59:20.958Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:00:40.841Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:00:41.015Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:01:41.325Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:01:41.567Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:02:09.304Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:02:09.477Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:03:31.170Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:03:31.358Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:04:43.201Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:04:43.368Z"}
+{"level":"warn","message":"Cannot destructure property 'name' of 'req.body' as it is undefined.","service":"mfm","stack":"TypeError: Cannot destructure property 'name' of 'req.body' as it is undefined.\n    at createPost (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/PostController.js:16:13)\n    at Layer.handleRequest (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\router\\lib\\route.js:157:13)\n    at AsyncResource.runInAsyncScope (node:async_hooks:227:14)\n    at next (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\multer\\lib\\make-middleware.js:73:16)\n    at multerMiddleware (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\multer\\lib\\make-middleware.js:76:41)\n    at Layer.handleRequest (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\router\\lib\\route.js:157:13)\n    at authenticateAdmin (file:///C:/Users/USER/Desktop/mfm/mfmBackend/middleWare/authenticateAdmin.js:54:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","timestamp":"2026-10-19T09:04:43.372Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:07:33.193Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:07:33.358Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:08:00.901Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:08:01.102Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:13:01.424Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:13:01.744Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:13:18.669Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:13:18.795Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:14:40.993Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:14:41.283Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:17:24.411Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:17:24.606Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:18:36.480Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:18:36.698Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:18:56.751Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:18:56.926Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:19:39.897Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:19:40.156Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:20:54.390Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T09:20:54.870Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:24:02.036Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:25:24.541Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:30:53.709Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-19T09:38:18.745Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:38:42.806Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:41:17.338Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-19T09:41:30.552Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:41:43.762Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:42:16.950Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:44:38.446Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-19T09:46:00.174Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:46:13.930Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:46:22.384Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:47:14.012Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:47:48.471Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:48:24.575Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:49:50.830Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:55:19.646Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T09:55:44.239Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:10:35.219Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:11:41.189Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:11:49.936Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:12:22.911Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:13:12.910Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:14:02.691Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-19T10:14:54.044Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:15:21.947Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:16:20.791Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-19T10:16:29.351Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:16:48.889Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:17:02.708Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:20:46.935Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:21:07.542Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:21:41.934Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:27:19.205Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:29:25.185Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-19T10:29:37.359Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:29:50.494Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:30:16.173Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-19T10:30:25.399Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:30:38.470Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:30:55.150Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-19T10:32:53.075Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:36:10.258Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:39:03.807Z"}
+{"level":"info","message":"Login endpoint hit..","service":"mfm","timestamp":"2026-10-19T10:39:30.102Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:39:52.002Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:40:48.939Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T10:40:49.180Z"}
+{"_message":"Post validation failed","errors":{"event":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"erfvewrver\" (type string) at path \"event\" for model \"Post\"","name":"CastError","path":"event","reason":{},"stringValue":"\"erfvewrver\"","value":"erfvewrver","valueType":"string"},"name":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"ifvbefvwe\" (type string) at path \"name\" for model \"Post\"","name":"CastError","path":"name","reason":{},"stringValue":"\"ifvbefvwe\"","value":"ifvbefvwe","valueType":"string"}},"level":"error","message":"Failed to create post Post validation failed: name: Cast to ObjectId failed for value \"ifvbefvwe\" (type string) at path \"name\" for model \"Post\", event: Cast to ObjectId failed for value \"erfvewrver\" (type string) at path \"event\" for model \"Post\"","service":"mfm","stack":"ValidationError: Post validation failed: name: Cast to ObjectId failed for value \"ifvbefvwe\" (type string) at path \"name\" for model \"Post\", event: Cast to ObjectId failed for value \"erfvewrver\" (type string) at path \"event\" for model \"Post\"\n    at Document.invalidate (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\mongoose\\lib\\document.js:3696:32)\n    at model.$set (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\mongoose\\lib\\document.js:1547:12)\n    at model.$set (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\mongoose\\lib\\document.js:1198:16)\n    at model.Document (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\mongoose\\lib\\document.js:182:12)\n    at model.Model (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\mongoose\\lib\\model.js:143:12)\n    at new model (C:\\Users\\USER\\Desktop\\mfm\\mfmBackend\\node_modules\\mongoose\\lib\\model.js:5075:15)\n    at createPost (file:///C:/Users/USER/Desktop/mfm/mfmBackend/controller/PostController.js:32:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)","timestamp":"2026-10-19T10:40:50.728Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:43:52.061Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T10:43:52.263Z"}
+{"level":"warn","message":"Authentication hit ","service":"mfm","timestamp":"2026-10-19T10:49:59.472Z"}
+{"level":"warn","message":"Controller endpoint hit...","service":"mfm","timestamp":"2026-10-19T10:49:59.640Z"}
